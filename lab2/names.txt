@@ -1,0 +1,7 @@
+Information on public transport
+4
+Type of transport,route number,Route length (km),Travel time (min)
+Tr,12,27.55,75
+T-c,17,13.6,57
+A,12a,57.3,117
+Note: Tr-Tram, Ts-trolleybus, A-bus
